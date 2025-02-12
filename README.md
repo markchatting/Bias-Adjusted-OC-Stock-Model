@@ -19,11 +19,6 @@ This repository contains scripts for processing, modeling, and bias-adjusting en
    - Applies **quantile-quantile (QQ) mapping** for more accurate regional predictors.  
    - Produces bias-adjusted predictor datasets for the OC content model.  
 
-### **Contents:**  
-- `/data/` – Raw and processed predictor datasets.  
-- `/models/` – Trained RF models for OC content and DBD.  
-- `/scripts/` – Python scripts for preprocessing, modeling, and bias adjustment.  
-- `/results/` – Model predictions, validation metrics, and OC stock estimates.  
 
 ### **Usage:**  
 Run the scripts in sequence to generate bias-adjusted predictors, train models, and estimate OC stock.  
