@@ -1,6 +1,4 @@
-# Bias-Adjusted-OC-Stock-Model
-
-# **GitHub Repository: Bias-Adjusted Predictors and Random Forest Models for Organic Carbon Stock Estimation**  
+# **Bias-Adjusted Predictors and Random Forest Models for Organic Carbon Stock Estimation**  
 
 This repository contains scripts for processing, modeling, and bias-adjusting environmental predictors to estimate organic carbon (OC) stock in the seafloor sediments of the Irish Sea. The workflow involves preprocessing point data, training Random Forest (RF) models, and applying bias correction to improve prediction accuracy.  
 
