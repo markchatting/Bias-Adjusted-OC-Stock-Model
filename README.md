@@ -21,7 +21,7 @@ This repository contains scripts for processing, modeling, and bias-adjusting en
 
 
 ### **Usage:**  
-Run the scripts in sequence to generate bias-adjusted predictors, train models, and estimate OC stock.  
+Run the scripts to generate bias-adjusted predictors, train models, and estimate OC stock.  
 
 ### **Citation:**  
 If you use this repository, please cite:  
