@@ -25,5 +25,5 @@ Run the scripts to generate bias-adjusted predictors, train models, and estimate
 
 ### **Citation:**  
 If you use this repository, please cite:  
-Chatting, Mark, "Bias-Adjusted Predictors and Random Forest Models for Organic Carbon Stock Estimation" 2025.  
+Chatting, Mark, "Bias-Adjusted Predictors and Random Forest Models for Organic Carbon Stock Estimation" 2025. DOI: https://doi.org/10.5194/egusphere-2025-661.  
 
